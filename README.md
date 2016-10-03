@@ -11,7 +11,7 @@ The following dependencies should be installed:
 
 Details on the model training and validation can be found in the article:
 
-Functional data analysis applied to modeling of severe acute mucositis and dysphagia resulting from head and neck radiation therapy. Dean  JA et al. Int J Radiat Oncol Biol Phys 2016.
+Functional data analysis applied to modeling of severe acute mucositis and dysphagia resulting from head and neck radiation therapy. Dean  JA et al. Int J Radiat Oncol Biol Phys 2016 in press (http://dx.doi.org/10.1016/j.ijrobp.2016.08.013).
 
 Please consider citing the above article in publications using the model.
 
