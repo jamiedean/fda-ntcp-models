@@ -15,6 +15,6 @@ Functional data analysis applied to modeling of severe acute mucositis and dysph
 
 Please consider citing the above article in publications using the model.
 
-This models are intended for research purposes only and should not be employed to make individual patient management decisions.
+These models are strictly for research purposes only. They should not be used for any clinical purposes.
 
 If you encounter any problems trying to use the models or wish to discuss any aspects of them please feel free to contact me at jamie.adam.dean@gmail.com.
