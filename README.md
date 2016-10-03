@@ -17,4 +17,4 @@ Please consider citing the above article in publications using the model.
 
 This models are intended for research purposes only and should not be employed to make individual patient management decisions.
 
-If you encounter any problems trying to use the models or wish to discuss any aspects of them please feel free to contact me at jamie.dean@icr.ac.uk.
+If you encounter any problems trying to use the models or wish to discuss any aspects of them please feel free to contact me at jamie.adam.dean@gmail.com.
